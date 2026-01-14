@@ -1,6 +1,6 @@
 ---
 layout: home
-title: SLP1001: A Comprehensive Guide to Sleeping in Class
+title: "SLP1001: A Comprehensive Guide to Sleeping in Class"
 nav_exclude: true
 permalink: /:path/
 seo:
