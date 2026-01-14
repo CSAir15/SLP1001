@@ -1,5 +1,5 @@
 ---
-name: Kevin Lin
+name: Prof. Yitong Guo
 role: Instructor
 email: me@example.com
 website: https://kevinl.info
