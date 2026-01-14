@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: SLP1001: A Comprehensive Guide to Sleeping in Class
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -8,9 +8,7 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
-
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+# SLP1001: A Comprehensive Guide to Sleeping in Class
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
@@ -33,7 +31,3 @@ Getting started with Just the Class is simple.
 1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
 
 Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
-
-### Local development environment
-
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
