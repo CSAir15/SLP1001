@@ -4,6 +4,8 @@ title: Staff
 description: A listing of all the course staff members.
 ---
 
+# About
+
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
