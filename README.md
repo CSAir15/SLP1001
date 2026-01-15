@@ -12,4 +12,4 @@ seo:
 
 ## Course Materials
 
-The course materials can be found [HERE](schedule.md).
+The course materials can be found [HERE](calendar.md).
