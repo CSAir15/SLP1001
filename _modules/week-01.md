@@ -1,5 +1,5 @@
 ---
-title: Introduction to Java
+title: Week 0: Introduction to Python
 ---
 
 Sep 28
