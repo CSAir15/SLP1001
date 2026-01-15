@@ -1,11 +1,10 @@
 ---
-name: Prof. Yitong Guo
+name: Yitong Guo
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: yitongguo1@link.cuhk.edu.cn
+photo: Yitong.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: By Appointment
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
