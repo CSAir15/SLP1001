@@ -4,4 +4,4 @@ title: Week 1
 
 Jan 19
 : [Python Basics](/SLP1001/assets/0___Python_for_DS.pdf)
-  : [Probability Basics](#)
+  : [Probability Basics](/SLP1001/assets/1__Probability_Basics.pdf)
